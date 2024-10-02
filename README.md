@@ -43,13 +43,14 @@ For example:
 Get Responses:
 
 Chiku speaks responses and also prints relevant output to the console.
-Installation :
-Clone the repository:
+
 bash :
+
 Copy code
-git clone https://github.com/yourusername/Chiku_Aibot.git
 Install the required dependencies:
+
 Copy code
+
 pip install -r requirements.txt
 Add your specific songs to the musicLibrary.py file with links to the respective media.
 
