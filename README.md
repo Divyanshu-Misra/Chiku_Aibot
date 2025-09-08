@@ -1,7 +1,3 @@
-
-
-ChatGPT said:
-ChatGPT
 Chiku_Aibot
 Chiku_Aibot is an intelligent voice-controlled assistant that responds to voice commands, similar to Alexa or Google Assistant. This project leverages speech recognition, Wikipedia, and a custom music library to perform a variety of tasks. Chiku can help you search for information, open popular websites, and even play specific songs from a predefined library.
 
